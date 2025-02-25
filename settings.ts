@@ -1,5 +1,5 @@
 export default {
     "frequency": 500,
-    "location": "syd",
+    "location": "ny2",
     "size": 10000 
 }
